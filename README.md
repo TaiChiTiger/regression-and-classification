@@ -1,8 +1,7 @@
 # 机器学习的应用-机器学习洞察4 （The Application of Machine Learning - Machine Learning Insight 4）
+## 监督学习
 回归 [APP](http://39.98.239.104:8507/)， 分类 [APP](http://39.98.239.104:8506/)
 我们用一些数字和图形来评估并解释模型
-
-## 监督学习
 ### 回归
 #### 评估
 - 均方根误差（RMSE）
